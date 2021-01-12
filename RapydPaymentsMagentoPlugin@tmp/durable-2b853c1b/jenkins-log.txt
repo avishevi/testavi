@@ -1,3 +1,0 @@
-+ pwd
-/var/lib/jenkins/workspace/devops/Test_Avi/test-bb2gh-pl/testavi/RapydPaymentsMagentoPlugin
-+ git add -A
